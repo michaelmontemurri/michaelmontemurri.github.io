@@ -56,6 +56,6 @@ I earned my B.Sc. in Physics and Applied Mathematics from **Bowling Green State 
 
 Most recently, I worked as a **data scientist** at South Essex Fabricating’s Research and Development Division, where I developed machine learning models for crop yield forecasting and built computer vision systems for automated crop sampling.
 
-In summer 2025, I will be joining **Morgan Stanley** in Montreal as a **Fixed Income Strats Associate** in Quantitative Finance.
+In the Summer of 2025, I'll be joining **Morgan Stanley** in Montreal as a **Fixed Income Strats Associate** in the Quantitative Finance Division.
 
 [View my CV as PDF](./files/MichaelMontemurri-CV.pdf)
