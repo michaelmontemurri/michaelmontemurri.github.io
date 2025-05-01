@@ -9,7 +9,7 @@
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>McGill University</strong><span class="cv-location">,&nbsp;Montreal, QC</span>
+<strong>McGill University | Mila</strong><span class="cv-location">,&nbsp;Montreal, QC</span>
   </div>
   <div class="cv-date">2024 – Present</div>
 </div>
