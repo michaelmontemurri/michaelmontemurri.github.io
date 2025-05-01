@@ -67,7 +67,7 @@
   </div>
   <div class="cv-date">2023 – 2024</div>
 </div>
-- Built ML models for crop yield prediction. Fine-tuned and deployed computer vision models for seedling detection. Built computer vision models to automate data collection pipelines. Conducted ad-hoc statistical analysis of experimental data.
+- Built ML models for crop yield prediction. Fine-tuned and deployed computer vision models for seedling detection. Automated data collection pipelines using computer vision techniques. Conducted ad-hoc statistical analysis of experimental data.
 
 **Tools:** Python, Flask, OpenCV, SQL, Pandas, Scikit-learn, PowerBI
 
@@ -80,7 +80,10 @@
   </div>
   <div class="cv-date">2020 – 2023</div>
 </div>
-- Synthesis of colloidal semiconducting nanocrystals (quantum dots). Conducted experiments on shape control of nanocrystals and their optical properties. Presented research at the 2023 American Chemical Society Conference. Led a project developing quantum dots with infrared high-excitation emission spectra for solar cell applications. Presented research at the 2023 American Chemical Society Conference. 
+- Synthesis of colloidal semiconducting nanocrystals (quantum dots).
+ Conducted experiments on shape control of nanocrystals and their optical properties. 
+ Led a project developing quantum dots with infrared high-excitation emission spectra for solar cell applications.
+  Presented research at the 2023 American Chemical Society Conference. 
 
 **Tools:** OriginPro, Python, Excel
 
@@ -167,7 +170,7 @@ Valued at \$20,000/year. Awarded for research excellence in natural sciences and
   <div class="cv-title">Bowling Green State University</div>
   <div class="cv-date">2022</div>
 </div>
-Awarded for outstanding academic performance in each of the Physics and Mathematics departments.
+Awarded for outstanding academic performance in both the Physics and Mathematics departments.
 
 <div class="job-title">
 <a href=https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html>BGSU Putnam Math Team</a>
