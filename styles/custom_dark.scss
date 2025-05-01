@@ -1,3 +1,16 @@
+/*-- scss:rules --*/
+html, body, 
+.navbar,                     
+.quarto-nav,                   
+.repo-card,                   
+.cv-entry, 
+.degree-title, .job-title {
+  transition: background-color 0.8s ease,
+              color 0.8s ease,
+              border-color 0.8s ease;
+}
+
+
 /*-- scss:defaults --*/
 $blue: #4ea8ff !default;
 $primary: $blue !default;

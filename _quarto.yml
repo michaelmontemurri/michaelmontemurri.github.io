@@ -28,7 +28,6 @@ format:
     theme:
       light: [simplex, styles/custom.scss]
       dark: [simplex, styles/custom_dark.scss]
-    css: styles/transition.scss
     fontsize: 0.95em
     linestretch: 1.4
     mainfont: "sans-serif"
