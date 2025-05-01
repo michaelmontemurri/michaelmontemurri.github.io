@@ -1,0 +1,16 @@
+---
+title: Repositories
+format: html
+resources:
+  - repos.js
+  - repos.css
+---
+
+<script src="repos.js"></script>
+<link rel="stylesheet" href="repos.css">
+
+## Featured Repositories
+
+<div id="github-repos" class="repo-grid">
+  <!-- JS will populate this -->
+</div>

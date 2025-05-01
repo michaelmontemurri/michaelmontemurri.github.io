@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Michael Montemurri",
+    "section": "",
+    "text": "Download CV as PDF"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Michael Montemurri",
+    "section": "Education",
+    "text": "Education\n\nM.Sc. Mathematics and Statistics\n\n\n\nMcGill University, Montreal, QC\n\n\n2024 – Present\n\n\n\nSupervisor: Prof. Eric Kolaczyk\n\nThesis topic: Graph-embedded random forests and graph representation learning for interpretable molecular property prediction.\n\nTeaching Assistant: Calculus II\n\nCourses: Network Science, Probabilistic Graphical Models (@UdeM), Statistical Inference, Advanced Distribution Theory, Regression & ANOVA, GLMs\n\n\nB.Sc. Physics & Applied Mathematics\n\n\n\nBowling Green State University, Bowling Green, OH\n\n\n2019 – 2023\n\n\n\nSumma Cum Laude, GPA: 3.99 / 4.00\n\nNCAA Division I Men’s Soccer"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Michael Montemurri",
+    "section": "Experience",
+    "text": "Experience\n\nIncoming Fixed Income Strats Associate\n\n\n\nMorgan Stanley, Montreal, QC\n\n\nSummer 2025\n\n\n\nRole begins Summer 2025.\n\n\nGraduate Research Student\n\n\n\nMila – Quebec AI Institute, Montreal, QC\n\n\n2024 – Present\n\n\n\nInvestigate positional encoding methods for GNNs and graph transformers. Explore the integration of graph data into tree based models. Utilize the Calcul Quebec HPC cluster to train and evaluate models on molecular graph datasets for interpretable property prediction.\n\nTools: PyTorch, DGL, RDKit, SLURM, Git, LaTeX\n\nData Scientist\n\n\n\nSouth Essex Fabricating – R&D Division, Windsor, ON\n\n\n2023 – 2024\n\n\n\nBuilt ML models for crop yield prediction. Fine-tuned and deployed computer vision models for seedling detection. Built computer vision models to automate data collection pipelines. Conducted ad-hoc statistical analysis of experimental data.\n\nTools: Python, Flask, OpenCV, SQL, Pandas, Scikit-learn, PowerBI\n\nResearch Assistant\n\n\n\nZamkov Lab, Bowling Green, OH\n\n\n2020 – 2023\n\n\n\nSynthesis of colloidal semiconducting nanocrystals (quantum dots). Conducted experiments on shape control of nanocrystals and their optical properties. Presented research at the 2023 American Chemical Society Conference. Led a project developing quantum dots with infrared high-excitation emission spectra for solar cell applications. Presented research at the 2023 American Chemical Society Conference.\n\nTools: OriginPro, Python, Excel"
+  },
+  {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "Michael Montemurri",
+    "section": "Projects",
+    "text": "Projects\n\n\nExploration of Initial Positional Encodings in the LSPE Framework\n\n\n2025\n\n\nImplementation and analysis of alternative positional encoding methods in the learnable structural and positional encoding framework.\n\n\nEdgeBank2.0\n\n\n2025\n\n\nAn extension of the EdgeBank benchmark for temporal link prediction using a frequency-based sampling approach.\n\n\nReading the Field: Predicting Post-Snap Outcomes with Large Language Models\n\n\n2025\n\n\nSubmission for the 2025 NFL Big Data Bowl.\n\n\nProbabilisticPCA\n\n\n2024\n\n\nAn implementation of Tipping and Bishop’s Probabilistic PCA and Mixture of PPCA with applications.\n\n\nRFandFriends\n\n\n2024\n\n\nAn implementation of Breiman’s Random Forest and several variations from scratch.\n\n\nRegressionPackage\n\n\n2024\n\n\nA Python package implementing regression estimators and hypothesis testing from scratch."
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "Michael Montemurri",
+    "section": "Awards",
+    "text": "Awards\n\nCanada Graduate Scholarship (CGS-M)\n\n\n\nNatural Sciences and Engineering Research Council of Canada (NSERC)\n\n\n2025\n\n\nValued at $27,000/year. Awarded nationally for academic excellence and research potential at the master’s level.\n\nFRQNT Master’s Scholarship\n\n\n\nFonds de recherche du Québec – Nature et technologies\n\n\n2025\n\n\nValued at $20,000/year. Awarded for research excellence in natural sciences and mathematics in Quebec.\n\nJ. Robert Overman Scholarship (2)\n\n\n\nBowling Green State University\n\n\n2022\n\n\nAwarded for outstanding academic performance in each of the Physics and Mathematics departments.\n\nBGSU Putnam Math Team\n\n\n\nBowling Green State University\n\n\n2022\n\n\nSelected for participation in the William Lowell Putnam Mathematical Competition.\n\nCoSIDA Academic All-American\n\n\n\nCollege Sports Information Directors of America (CoSIDA)\n\n\n2022\n\n\nNamed to the NCAA Division I Men’s Soccer Academic All-America Team for combined academic and athletic excellence."
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Michael Montemurri",
+    "section": "Publications",
+    "text": "Publications\n\nQuantum Shell in a Shell: Engineering Colloidal Nanocrystals for a High-Intensity Excitation Regime\n\n\n\nJournal of the American Chemical Society\n\n\n2023\n\n\nDulanjan Harankahage, James Cassidy, Jacob Beavon, Jiamin Huang, Niamh Brown, David B. Berkinsky, Andrew Marder, Barbra Kayira, Michael Montemurri, Pavel Anzenbacher, et al.\n\nShape Control of Colloidal Semiconductor Nanocrystals through Thermodynamically Driven Aggregative Growth\n\n\n\nChemistry of Materials\n\n\n2022\n\n\nJames Cassidy, Dulanjan Harankahage, Jack Ojile, Dmitry Porotnikov, Lexie Walker, Michael Montemurri, Bianca S.L. Narvaez, Dmitriy Khon, Malcolm D.E. Forbes, Mikhail Zamkov\n\nQuantum Shells versus Quantum Dots: Suppressing Auger Recombination in Colloidal Semiconductors\n\n\n\nChemical Communications\n\n\n2023\n\n\nJacob Beavon, Jiamin Huang, Dulanjan Harankahage, Michael Montemurri, James Cassidy, Mikhail Zamkov"
+  },
+  {
+    "objectID": "repos.html#featured-repositories",
+    "href": "repos.html#featured-repositories",
+    "title": "Repositories",
+    "section": "Featured Repositories",
+    "text": "Featured Repositories"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Montemurri",
+    "section": "",
+    "text": "michael.montemurri@mcgill.ca \n CV \n GitHub \n Google Scholar \n LinkedIn"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Michael Montemurri",
+    "section": "About Me",
+    "text": "About Me\nI am a graduate student at McGill University and Mila – Quebec’s AI Institute, pursuing an M.Sc. in Mathematics and Statistics under the supervision of Prof. Eric Kolaczyk. My research focuses on graph-embedded random forests and graph representation learning for interpretable molecular property prediction in low-data regimes.\nI earned my B.Sc. in Physics and Applied Mathematics from Bowling Green State University in 2023, graduating Summa Cum Laude while competing on the NCAA Division I Men’s Soccer team. During my undergraduate studies, I worked in the Zamkov Lab, researching colloidal quantum dots for photovoltaic applications, and in the Nardone Research Group, where I simulated and investigated photovoltaic devices.\nMost recently, I worked as a data scientist at South Essex Fabricating’s Research and Development Division, where I developed machine learning models for crop yield forecasting and built computer vision systems for automated crop sampling.\nIn summer 2025, I will be joining Morgan Stanley in Montreal as a Fixed Income Strats Associate in Quantitative Finance.\nView my CV as PDF"
+  }
+]

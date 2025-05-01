@@ -2,32 +2,36 @@ project:
   type: website
 
 website:
-  title: "Ali Siahkoohi"
-  google-analytics: "G-VCVVD4KWRF"
-  search: false
-
-  # Without this, the page footer will not display. It is removed in index.qmd
+  title: "Michael Montemurri"
   navbar:
-    background: dark
+    background: light
+    right:
+      - text: About 
+        href: index.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Repositories
+        href: repos.qmd
 
   page-footer:
     center:
       - text: <ins>Made with Quarto</ins>
         href: https://quarto.org
       - text: <ins>Source</ins>
-        href: https://github.com/alisiahkoohi/alisiahkoohi.github.io
+        href: https://github.com/michaelmontemurri/michaelmontemurri.github.io
       - text: <ins>License</ins>
-        href: https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/LICENSE
+        href: ./LICENSE
 
 format:
   html:
+
     theme:
       light: [simplex, custom.scss]
-      dark: [cyborg, custom_dark.scss]
+      dark: [simplex, custom_dark.scss]
     fontsize: 0.95em
     linestretch: 1.4
     mainfont: "sans-serif"
     toc: true
     toc-title: "<br><br><br>"
-    link-external-newwindow: false
-    minimal: true
+    link-external-newwindow: true
+    #minimal: true

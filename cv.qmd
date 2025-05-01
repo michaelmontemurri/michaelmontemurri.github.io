@@ -1,0 +1,218 @@
+[**Download CV as PDF**](./files/MichaelMontemurri-CV.pdf)
+
+---
+
+## Education
+
+<div class="degree-title">
+  <a href="https://www.mcgill.ca/">M.Sc. Mathematics and Statistics</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">
+<strong>McGill University</strong><span class="cv-location">,&nbsp;Montreal, QC</span>
+  </div>
+  <div class="cv-date">2024 – Present</div>
+</div>
+- Supervisor: [Prof. Eric Kolaczyk](https://mila.quebec/en/directory/eric-kolaczyk)  
+- Thesis topic: Graph-embedded random forests and graph representation learning for interpretable molecular property prediction.  
+- Teaching Assistant: Calculus II  
+- Courses: Network Science, Probabilistic Graphical Models (@UdeM), Statistical Inference, Advanced Distribution Theory, Regression & ANOVA, GLMs
+
+<div class="degree-title">
+  <a href="https://www.bgsu.edu/">B.Sc. Physics & Applied Mathematics</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">
+<strong>Bowling Green State University</strong><span class="cv-location">,&nbsp;Bowling Green, OH</span>
+  </div>
+  <div class="cv-date">2019 – 2023</div>
+</div>
+- Summa Cum Laude, GPA: 3.99 / 4.00  
+- NCAA Division I Men’s Soccer  
+
+---
+
+## Experience
+
+<div class="job-title">
+  <a href="https://www.morganstanley.com/">Incoming Fixed Income Strats Associate</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">
+<strong>Morgan Stanley</strong><span class="cv-location">,&nbsp;Montreal, QC</span>
+  </div>
+  <div class="cv-date">Summer 2025</div>
+</div>
+- Role begins Summer 2025.
+
+<div class="job-title">
+  <a href="https://mila.quebec/">Graduate Research Student</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">
+<strong>Mila – Quebec AI Institute</strong><span class="cv-location">,&nbsp;Montreal, QC</span>
+  </div>
+  <div class="cv-date">2024 – Present</div>
+</div>
+- Investigate positional encoding methods for GNNs and graph transformers. Explore the integration of graph data into tree based models. Utilize the Calcul Quebec HPC cluster to train and evaluate models on molecular graph datasets for interpretable property prediction. 
+
+**Tools:** PyTorch, DGL, RDKit, SLURM, Git, LaTeX
+
+<div class="job-title">
+  <a href="https://www.sef.ca/">Data Scientist</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">
+<strong>South Essex Fabricating – R&D Division</strong><span class="cv-location">,&nbsp;Windsor, ON</span>
+  </div>
+  <div class="cv-date">2023 – 2024</div>
+</div>
+- Built ML models for crop yield prediction. Fine-tuned and deployed computer vision models for seedling detection. Built computer vision models to automate data collection pipelines. Conducted ad-hoc statistical analysis of experimental data.
+
+**Tools:** Python, Flask, OpenCV, SQL, Pandas, Scikit-learn, PowerBI
+
+<div class="job-title">
+  <a href="https://physics.bgsu.edu/~zamkovm/">Research Assistant</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">
+<strong>Zamkov Lab</strong><span class="cv-location">,&nbsp;Bowling Green, OH</span>
+  </div>
+  <div class="cv-date">2020 – 2023</div>
+</div>
+- Synthesis of colloidal semiconducting nanocrystals (quantum dots). Conducted experiments on shape control of nanocrystals and their optical properties. Presented research at the 2023 American Chemical Society Conference. Led a project developing quantum dots with infrared high-excitation emission spectra for solar cell applications. Presented research at the 2023 American Chemical Society Conference. 
+
+**Tools:** OriginPro, Python, Excel
+
+---
+
+## Projects
+
+<div class="cv-entry">
+  <div class="job-title">
+<a href="https://github.com/michaelmontemurri/gnn-lspe">Exploration of Initial Positional Encodings in the LSPE Framework</a>
+  </div>
+  <div class="cv-date">2025</div>
+</div>
+Implementation and analysis of alternative positional encoding methods in the learnable structural and positional encoding framework.
+
+<div class="cv-entry">
+  <div class="job-title">
+<a href="https://github.com/michaelmontemurri/DGB-edgebank2.0">EdgeBank2.0</a>
+  </div>
+  <div class="cv-date">2025</div>
+</div>
+An extension of the EdgeBank benchmark for temporal link prediction using a frequency-based sampling approach.
+
+<div class="cv-entry">
+  <div class="job-title">
+<a href="https://github.com/michaelmontemurri/BigData25">Reading the Field: Predicting Post-Snap Outcomes with Large Language Models</a>
+  </div>
+  <div class="cv-date">2025</div>
+</div>
+Submission for the 2025 NFL Big Data Bowl.
+
+<div class="cv-entry">
+  <div class="job-title">
+<a href="https://github.com/michaelmontemurri/ProbabilisticPCA">ProbabilisticPCA</a>
+  </div>
+  <div class="cv-date">2024</div>
+</div>
+An implementation of Tipping and Bishop’s Probabilistic PCA and Mixture of PPCA with applications.
+
+
+<div class="cv-entry">
+  <div class="job-title">
+<a href="https://github.com/michaelmontemurri/RFandFriends">RFandFriends</a>
+  </div>
+  <div class="cv-date">2024</div>
+</div>
+An implementation of Breiman’s Random Forest and several variations from scratch.
+
+<div class="cv-entry">
+  <div class="job-title">
+<a href="https://github.com/michaelmontemurri/RegressionPackage">RegressionPackage</a>
+  </div>
+  <div class="cv-date">2024</div>
+</div>
+A Python package implementing regression estimators and hypothesis testing from scratch.
+
+
+---
+
+## Awards
+
+<div class="job-title">
+  <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgs-m-espc-m_eng.asp">Canada Graduate Scholarship (CGS-M)</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Natural Sciences and Engineering Research Council of Canada (NSERC)</div>
+  <div class="cv-date">2025</div>
+</div>
+Valued at \$27,000/year. Awarded nationally for academic excellence and research potential at the master’s level.
+
+<div class="job-title">
+ <a href="https://frq.gouv.qc.ca/en/program/masters-research-scholarships-b1x-2023-2024/">FRQNT Master's Scholarship</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Fonds de recherche du Québec – Nature et technologies</div>
+  <div class="cv-date">2025</div>
+</div>
+Valued at \$20,000/year. Awarded for research excellence in natural sciences and mathematics in Quebec.
+
+<div class="job-title">
+<a href=https://bgsu.academicworks.com/opportunities/22694>J. Robert Overman Scholarship (2)</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Bowling Green State University</div>
+  <div class="cv-date">2022</div>
+</div>
+Awarded for outstanding academic performance in each of the Physics and Mathematics departments.
+
+<div class="job-title">
+<a href=https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html>BGSU Putnam Math Team</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Bowling Green State University</div>
+  <div class="cv-date">2022</div>
+</div>
+Selected for participation in the William Lowell Putnam Mathematical Competition.
+
+<div class="job-title">
+  <a href="https://academicallamerica.com/">CoSIDA Academic All-American</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">College Sports Information Directors of America (CoSIDA)</div>
+  <div class="cv-date">2022</div>
+</div>
+Named to the NCAA Division I Men’s Soccer Academic All-America Team for combined academic and athletic excellence.
+
+## Publications
+
+<div class="job-title">
+  <a href="https://doi.org/10.1021/jacs.3c03584">Quantum Shell in a Shell: Engineering Colloidal Nanocrystals for a High-Intensity Excitation Regime</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Journal of the American Chemical Society</div>
+  <div class="cv-date">2023</div>
+</div>
+Dulanjan Harankahage, James Cassidy, Jacob Beavon, Jiamin Huang, Niamh Brown, David B. Berkinsky, Andrew Marder, Barbra Kayira, <strong>Michael Montemurri</strong>, Pavel Anzenbacher, et al.
+
+<div class="job-title">
+  <a href="https://doi.org/10.1021/acs.chemmater.1c04453">Shape Control of Colloidal Semiconductor Nanocrystals through Thermodynamically Driven Aggregative Growth</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Chemistry of Materials</div>
+  <div class="cv-date">2022</div>
+</div>
+James Cassidy, Dulanjan Harankahage, Jack Ojile, Dmitry Porotnikov, Lexie Walker, <strong>Michael Montemurri</strong>, Bianca S.L. Narvaez, Dmitriy Khon, Malcolm D.E. Forbes, Mikhail Zamkov
+
+
+<div class="job-title">
+  <a href="https://doi.org/10.1039/D3CC03687A">Quantum Shells versus Quantum Dots: Suppressing Auger Recombination in Colloidal Semiconductors</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Chemical Communications</div>
+  <div class="cv-date">2023</div>
+</div>
+Jacob Beavon, Jiamin Huang, Dulanjan Harankahage, <strong>Michael Montemurri</strong>, James Cassidy, Mikhail Zamkov

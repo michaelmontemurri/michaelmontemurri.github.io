@@ -1,10 +1,91 @@
 /*-- scss:defaults --*/
-// Base document colors
-$blue:    #0451A5 !default;
-$primary:       $blue !default;
-
+// Base colors
+$blue: #0451A5 !default;
+$primary: $blue !default;
 
 .quarto-about-solana .about-image {
-    border: 1px solid #727475;
-    background-color: #ffffff;
-  }
+  transform: scale(1.08); /* Adjust the zoom factor as needed */
+  object-fit: cover;       /* Ensures the image doesn't distort */
+  transition: transform 0.3s ease;
+  border-radius: 50%; 
+  border: 1px solid #727475;
+  background-color: #ffffff;
+}
+
+/* Layout for experience and education entries */
+.cv-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-weight: 600; // Only affects cv-title unless overridden
+  margin-top: 0.2em;
+  margin-bottom: 0.4em;
+}
+
+.cv-title {
+  font-size: 1.05em;
+  font-weight: 600;
+  margin-top: -1;
+}
+
+.cv-location {
+  font-weight: 400;
+  font-size: 1.05em;
+
+}
+
+.cv-date {
+  font-size: 0.95em;
+  color: #6c757d;
+}
+
+
+/* Bullet formatting */
+ul {
+  padding-left: 1.5em;
+  padding-inline-start: 2em;
+}
+
+/* Indent bullets under entries */
+.cv-entry + ul {
+  margin-left: 0.5em;
+}
+
+/* BLUE job and degree titles */
+.degree-title,
+.job-title {
+  margin-bottom: -1em;     // Reduce gap *below* the degree/job title
+  margin-top: 0.2em;
+}
+
+.degree-title:not(:first-child),
+.job-title:not(:first-child) {
+  margin-top: 1em;         // Add gap *above* the next degree/job title (space between entries)
+}
+
+.degree-title a,
+.job-title a {
+  color: $blue;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.05em;
+}
+
+.degree-title a:hover,
+.job-title a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Other links */
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.2s ease;
+}
+
+a:hover {
+  border-bottom: 1px solid $blue;
+  cursor: pointer;
+}
