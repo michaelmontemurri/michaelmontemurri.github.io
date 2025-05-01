@@ -1,0 +1,11 @@
+/* styles/transition.scss  */
+html, body, 
+.navbar,                     
+.quarto-nav,                   
+.repo-card,                   
+.cv-entry, 
+.degree-title, .job-title {
+  transition: background-color .8s ease,
+              color            .8s ease,
+              border-color     .8s ease;
+}

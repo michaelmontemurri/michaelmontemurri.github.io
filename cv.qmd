@@ -1,29 +1,29 @@
-[**Download CV as PDF**](./files/MichaelMontemurri-CV.pdf)
+[**Download CV as PDF**](/files/MichaelMontemurri-CV.pdf)
 
 ---
 
 ## Education
 
 <div class="degree-title">
-  <a href="https://www.mcgill.ca/">M.Sc. Mathematics and Statistics</a>
+  <a href="https://www.mcgill.ca/mathstat/">M.Sc. Mathematics and Statistics</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>McGill University | Mila</strong><span class="cv-location">,&nbsp;Montreal, QC</span>
+<strong>McGill University | Mila</strong><span class="cv-location">, Montreal, QC</span>
   </div>
   <div class="cv-date">2024 – Present</div>
 </div>
-- Supervisor: [Prof. Eric Kolaczyk](https://mila.quebec/en/directory/eric-kolaczyk)  
+- Supervisor: [Prof. Eric Kolaczyk](https://sites.bu.edu/kolaczyk/)  
 - Thesis topic: Graph-embedded random forests and graph representation learning for interpretable molecular property prediction.  
 - Teaching Assistant: Calculus II  
 - Courses: Network Science, Probabilistic Graphical Models (@UdeM), Statistical Inference, Advanced Distribution Theory, Regression & ANOVA, GLMs
 
 <div class="degree-title">
-  <a href="https://www.bgsu.edu/">B.Sc. Physics & Applied Mathematics</a>
+  <a href="https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html">B.Sc. Physics & Applied Mathematics</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>Bowling Green State University</strong><span class="cv-location">,&nbsp;Bowling Green, OH</span>
+<strong>Bowling Green State University</strong><span class="cv-location">, Bowling Green, OH</span>
   </div>
   <div class="cv-date">2019 – 2023</div>
 </div>
@@ -39,7 +39,7 @@
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>Morgan Stanley</strong><span class="cv-location">,&nbsp;Montreal, QC</span>
+<strong>Morgan Stanley</strong><span class="cv-location">, Montreal, QC</span>
   </div>
   <div class="cv-date">Summer 2025</div>
 </div>
@@ -50,33 +50,33 @@
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>Mila – Quebec AI Institute</strong><span class="cv-location">,&nbsp;Montreal, QC</span>
+<strong>Mila – Quebec AI Institute</strong><span class="cv-location">, Montreal, QC</span>
   </div>
   <div class="cv-date">2024 – Present</div>
 </div>
-- Investigate positional encoding methods for GNNs and graph transformers. Explore the integration of graph data into tree based models. Utilize the Calcul Quebec HPC cluster to train and evaluate models on molecular graph datasets for interpretable property prediction. 
+- Investigate positional encoding methods for GNNs and graph transformers. Explore the integration of graph data into tree-based models. Utilize the Calcul Quebec HPC cluster to train and evaluate models on molecular graph datasets for interpretable property prediction. 
 
-**Tools:** PyTorch, DGL, RDKit, SLURM, Git, LaTeX
+<p class="tools-line">Tools: PyTorch, DGL, RDKit, SLURM, Git, LaTeX</p>
 
 <div class="job-title">
-  <a href="https://www.sef.ca/">Data Scientist</a>
+  <a href="https://southsx.com/center-horticultural-innovation/">Data Scientist</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>South Essex Fabricating – R&D Division</strong><span class="cv-location">,&nbsp;Windsor, ON</span>
+<strong>South Essex Fabricating – R&D Division</strong><span class="cv-location">, Windsor, ON</span>
   </div>
   <div class="cv-date">2023 – 2024</div>
 </div>
 - Built ML models for crop yield prediction. Fine-tuned and deployed computer vision models for seedling detection. Automated data collection pipelines using computer vision techniques. Conducted ad-hoc statistical analysis of experimental data.
 
-**Tools:** Python, Flask, OpenCV, SQL, Pandas, Scikit-learn, PowerBI
+<p class="tools-line">Tools: Python, Flask, OpenCV, SQL, Pandas, Scikit-learn, PowerBI</p>
 
 <div class="job-title">
   <a href="https://physics.bgsu.edu/~zamkovm/">Research Assistant</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>Zamkov Lab</strong><span class="cv-location">,&nbsp;Bowling Green, OH</span>
+<strong>Zamkov Lab</strong><span class="cv-location">, Bowling Green, OH</span>
   </div>
   <div class="cv-date">2020 – 2023</div>
 </div>
@@ -85,7 +85,7 @@
  Led a project developing quantum dots with infrared high-excitation emission spectra for solar cell applications.
   Presented research at the 2023 American Chemical Society Conference. 
 
-**Tools:** OriginPro, Python, Excel
+<p class="tools-line">Tools: OriginPro, Python, Excel</p>
 
 ---
 
@@ -140,7 +140,6 @@ An implementation of Breiman’s Random Forest and several variations from scrat
 </div>
 A Python package implementing regression estimators and hypothesis testing from scratch.
 
-
 ---
 
 ## Awards
@@ -190,10 +189,12 @@ Selected for participation in the William Lowell Putnam Mathematical Competition
 </div>
 Named to the NCAA Division I Men’s Soccer Academic All-America Team for combined academic and athletic excellence.
 
+---
+
 ## Publications
 
 <div class="job-title">
-  <a href="https://doi.org/10.1021/jacs.3c03584">Quantum Shell in a Shell: Engineering Colloidal Nanocrystals for a High-Intensity Excitation Regime</a>
+  <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.3c03397">Quantum Shell in a Shell: Engineering Colloidal Nanocrystals for a High-Intensity Excitation Regime</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">Journal of the American Chemical Society</div>
@@ -202,7 +203,17 @@ Named to the NCAA Division I Men’s Soccer Academic All-America Team for combin
 Dulanjan Harankahage, James Cassidy, Jacob Beavon, Jiamin Huang, Niamh Brown, David B. Berkinsky, Andrew Marder, Barbra Kayira, <strong>Michael Montemurri</strong>, Pavel Anzenbacher, et al.
 
 <div class="job-title">
-  <a href="https://doi.org/10.1021/acs.chemmater.1c04453">Shape Control of Colloidal Semiconductor Nanocrystals through Thermodynamically Driven Aggregative Growth</a>
+  <a href="https://pubs.rsc.org/en/content/articlelanding/2023/cc/d3cc02091f/unauth">Quantum Shells versus Quantum Dots: Suppressing Auger Recombination in Colloidal Semiconductors</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Chemical Communications</div>
+  <div class="cv-date">2023</div>
+</div>
+Jacob Beavon, Jiamin Huang, Dulanjan Harankahage, <strong>Michael Montemurri</strong>, James Cassidy, Mikhail Zamkov
+
+
+<div class="job-title">
+  <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c00265">Shape Control of Colloidal Semiconductor Nanocrystals through Thermodynamically Driven Aggregative Growth</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">Chemistry of Materials</div>
@@ -211,11 +222,4 @@ Dulanjan Harankahage, James Cassidy, Jacob Beavon, Jiamin Huang, Niamh Brown, Da
 James Cassidy, Dulanjan Harankahage, Jack Ojile, Dmitry Porotnikov, Lexie Walker, <strong>Michael Montemurri</strong>, Bianca S.L. Narvaez, Dmitriy Khon, Malcolm D.E. Forbes, Mikhail Zamkov
 
 
-<div class="job-title">
-  <a href="https://doi.org/10.1039/D3CC03687A">Quantum Shells versus Quantum Dots: Suppressing Auger Recombination in Colloidal Semiconductors</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Chemical Communications</div>
-  <div class="cv-date">2023</div>
-</div>
-Jacob Beavon, Jiamin Huang, Dulanjan Harankahage, <strong>Michael Montemurri</strong>, James Cassidy, Mikhail Zamkov
+---

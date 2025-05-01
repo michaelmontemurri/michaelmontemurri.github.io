@@ -6,8 +6,8 @@ resources:
   - repos.css
 ---
 
-<script src="repos.js"></script>
-<link rel="stylesheet" href="repos.css">
+<script src="../repos.js"></script>
+<link rel="stylesheet" href="styles/repos.css">
 
 ## Featured Repositories
 
