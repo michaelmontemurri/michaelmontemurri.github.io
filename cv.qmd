@@ -16,7 +16,7 @@
 - Supervisor: [Prof. Eric Kolaczyk](https://sites.bu.edu/kolaczyk/)  
 - Thesis topic: Graph-embedded random forests and graph representation learning for interpretable molecular property prediction.  
 - Teaching Assistant: Calculus II  
-- Courses: Network Science, Probabilistic Graphical Models (@UdeM), Statistical Inference, Advanced Distribution Theory, Regression & ANOVA, GLMs
+- Courses: Network Science, Probabilistic Graphical Models (@UdeM), Statistical Inference, Advanced Distribution Theory, Regression & ANOVA, Generalized Linear Models
 
 <div class="degree-title">
   <a href="https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html">B.Sc. Physics & Applied Mathematics</a>
@@ -35,7 +35,7 @@
 ## Experience
 
 <div class="job-title">
-  <a href="https://www.morganstanley.com/">Incoming Fixed Income Strats Associate</a>
+  <a href="https://www.morganstanley.com/">Quant Strats Summer Associate - Fixed Income</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
@@ -86,6 +86,56 @@
   Presented research at the 2023 American Chemical Society Conference. 
 
 <p class="tools-line">Tools: OriginPro, Python, Excel</p>
+
+
+---
+
+## Funding and Awards
+
+<div class="job-title">
+  <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgs-m-espc-m_eng.asp">Canada Graduate Scholarship (CGS-M)</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Natural Sciences and Engineering Research Council of Canada (NSERC)</div>
+  <div class="cv-date">2025</div>
+</div>
+Valued at \$27,000/year. Awarded nationally for academic excellence and research potential at the master’s level.
+
+<div class="job-title">
+ <a href="https://frq.gouv.qc.ca/en/program/masters-research-scholarships-b1x-2023-2024/">FRQNT Master's Scholarship</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Fonds de recherche du Québec – Nature et technologies (FRQNT)</div>
+  <div class="cv-date">2025</div>
+</div>
+Valued at \$20,000/year. Awarded for research excellence in natural sciences and mathematics in Quebec.
+
+<div class="job-title">
+<a href=https://bgsu.academicworks.com/opportunities/22694>J. Robert Overman Scholarship (2)</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Bowling Green State University</div>
+  <div class="cv-date">2022</div>
+</div>
+Awarded for outstanding academic performance in both the Physics and Mathematics departments.
+
+<div class="job-title">
+<a href=https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html>BGSU Putnam Math Team</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Bowling Green State University</div>
+  <div class="cv-date">2022</div>
+</div>
+Selected for participation in the William Lowell Putnam Mathematical Competition.
+
+<div class="job-title">
+  <a href="https://academicallamerica.com/">CoSIDA Academic All-American</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">College Sports Information Directors of America (CoSIDA)</div>
+  <div class="cv-date">2022</div>
+</div>
+Named to the NCAA Division I Men’s Soccer Academic All-America Team for combined academic and athletic excellence.
 
 ---
 
@@ -139,55 +189,6 @@ An implementation of Breiman’s Random Forest and several variations from scrat
   <div class="cv-date">2024</div>
 </div>
 A Python package implementing regression estimators and hypothesis testing from scratch.
-
----
-
-## Awards
-
-<div class="job-title">
-  <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgs-m-espc-m_eng.asp">Canada Graduate Scholarship (CGS-M)</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Natural Sciences and Engineering Research Council of Canada (NSERC)</div>
-  <div class="cv-date">2025</div>
-</div>
-Valued at \$27,000/year. Awarded nationally for academic excellence and research potential at the master’s level.
-
-<div class="job-title">
- <a href="https://frq.gouv.qc.ca/en/program/masters-research-scholarships-b1x-2023-2024/">FRQNT Master's Scholarship</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Fonds de recherche du Québec – Nature et technologies</div>
-  <div class="cv-date">2025</div>
-</div>
-Valued at \$20,000/year. Awarded for research excellence in natural sciences and mathematics in Quebec.
-
-<div class="job-title">
-<a href=https://bgsu.academicworks.com/opportunities/22694>J. Robert Overman Scholarship (2)</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Bowling Green State University</div>
-  <div class="cv-date">2022</div>
-</div>
-Awarded for outstanding academic performance in both the Physics and Mathematics departments.
-
-<div class="job-title">
-<a href=https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html>BGSU Putnam Math Team</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Bowling Green State University</div>
-  <div class="cv-date">2022</div>
-</div>
-Selected for participation in the William Lowell Putnam Mathematical Competition.
-
-<div class="job-title">
-  <a href="https://academicallamerica.com/">CoSIDA Academic All-American</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">College Sports Information Directors of America (CoSIDA)</div>
-  <div class="cv-date">2022</div>
-</div>
-Named to the NCAA Division I Men’s Soccer Academic All-America Team for combined academic and athletic excellence.
 
 ---
 

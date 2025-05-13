@@ -27,7 +27,7 @@ about:
 ">
 
   <a href="mailto:michael.montemurri@mcgill.ca" style="text-decoration: underline;" target="_blank" rel="noopener">
-    michael.montemurri@mcgill.ca
+    michael.montemurri@mail.mcgill.ca
   </a>
 
   <a href="./files/MichaelMontemurri-CV.pdf" style="text-decoration: underline;" target="_blank" rel="noopener">
@@ -56,6 +56,6 @@ I earned my B.Sc. in Physics and Applied Mathematics from Bowling Green State Un
 
 Most recently, I worked as a data scientist at South Essex Fabricating’s Research and Development Division, where I developed machine learning models for crop yield forecasting and built computer vision systems for automated crop sampling.
 
-In the Summer of 2025, I'll be joining Morgan Stanley in Montreal as a Fixed Income Strats Associate in the Quantitative Finance Division.
+In the Summer of 2025, I'll be joining Morgan Stanley in Montreal as a Quant Strats Summer Associate in the Fixed Income Division.
 
 [View my CV as PDF](./files/MichaelMontemurri-CV.pdf)
