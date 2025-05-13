@@ -35,15 +35,14 @@
 ## Experience
 
 <div class="job-title">
-  <a href="https://www.morganstanley.com/">Quant Strats Summer Associate - Fixed Income</a>
+  <a href="https://www.morganstanley.com/">Quant Strats Summer Associate</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>Morgan Stanley</strong><span class="cv-location">, Montreal, QC</span>
+<strong>Morgan Stanley – Fixed Income Division</strong><span class="cv-location">, Montreal, QC</span>
   </div>
   <div class="cv-date">Summer 2025</div>
 </div>
-- Role begins Summer 2025.
 
 <div class="job-title">
   <a href="https://mila.quebec/">Graduate Research Student</a>
