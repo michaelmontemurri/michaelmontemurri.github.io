@@ -119,15 +119,6 @@ Valued at \$20,000/year. Awarded for research excellence in natural sciences and
 Awarded for outstanding academic performance in both the Physics and Mathematics departments.
 
 <div class="job-title">
-<a href=https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html>BGSU Putnam Math Team</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Bowling Green State University</div>
-  <div class="cv-date">2022</div>
-</div>
-Selected for participation in the William Lowell Putnam Mathematical Competition.
-
-<div class="job-title">
   <a href="https://academicallamerica.com/">CoSIDA Academic All-American</a>
 </div>
 <div class="cv-entry">
