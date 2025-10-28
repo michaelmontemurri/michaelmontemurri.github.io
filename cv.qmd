@@ -107,18 +107,38 @@
 ---
 
 ## Funding and Awards
+<div class="cv-entry">
+<div class="job-title">
+  <a href="https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/cgrsm-besrm_eng.asp">NSERC Canada Graduate Scholarship – Master’s</a>
+  </div>
+  <div class="cv-date">2025</div>
+</div>
+- Valued at \$27,000/year. Awarded nationally for research potential in the natural sciences.
 
-- **NSERC Canada Graduate Scholarship – Master’s (CGS-M)** (2025): \$27,000/year.  
-  Awarded nationally for research potential in the natural sciences.
+<div class="cv-entry">
+ <div class="job-title">
+  <a href="https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-masters-training-scholarships/">FRQNT Master’s Scholarship</a>
+  </div>
+  <div class="cv-date">2025</div>
+</div>
+- Valued at \$20,000/year. Awarded for excellence in research in mathematics and natural sciences in Quebec.
 
-- **FRQNT Master’s Scholarship** (2025): \$20,000/year.  
-  Awarded for excellence in research in mathematics and natural sciences in Quebec.
+<div class="cv-entry">
+ <div class="job-title">
+<a href="https://bgsu.academicworks.com/opportunities/23506">J. Robert Overman Scholarship x2</a>
+  </div>
+  <div class="cv-date">2022</div>
+</div>
+- Highest departmental GPA (Physics & Astronomy, Mathematics).
 
-- **J. Robert Overman Scholarship** (2022): Highest departmental GPA (Physics, Mathematics).
+<div class="cv-entry">
+ <div class="job-title">
+<a href="https://academicallamerica.com/">CoSIDA Division I Men’s Soccer Academic All-American Team</a>
+  </div>
+  <div class="cv-date">2022</div>
+</div>
 
-- **CoSIDA Division I Men’s Soccer Academic All-American Team** (2022).
-
---- 
+---
 
 ## Projects
 
