@@ -1,0 +1,68 @@
+/* Basic layout and typography */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  line-height: 1.5;
+  color: #222;
+  margin: 2rem;
+  max-width: 900px;
+}
+
+/* Headings */
+h2 {
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: .25rem;
+  margin-top: 2rem;
+}
+
+/* Degree / Job title line */
+.degree-title, .job-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+
+/* Entry wrapper */
+.cv-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Title and location */
+.cv-title {
+  font-weight: 600;
+}
+.cv-location {
+  color: #666;
+  font-weight: 400;
+  margin-left: .4rem;
+}
+
+/* Date on the right */
+.cv-date {
+  color: #666;
+  font-size: .95rem;
+  white-space: nowrap;
+}
+
+/* Tools line and bullets */
+.tools-line {
+  font-style: normal;
+  color: #444;
+  margin-top: .25rem;
+  margin-bottom: .75rem;
+}
+
+/* Lists */
+ul, p, li {
+  margin-top: .25rem;
+  margin-bottom: .25rem;
+}
+
+/* Small screens */
+@media (max-width: 640px) {
+  .cv-entry { flex-direction: column; align-items: flex-start; }
+  .cv-date { margin-top: .25rem; }
+}

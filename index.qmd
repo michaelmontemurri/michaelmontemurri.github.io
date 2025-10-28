@@ -50,12 +50,20 @@ about:
 
 ## About Me
 
-I am a graduate student at McGill University and Mila – Quebec AI Institute, pursuing an M.Sc. in Mathematics and Statistics under the supervision of [Prof. Eric Kolaczyk](https://sites.bu.edu/kolaczyk/). My research focuses on graph-embedded random forests and graph representation learning for interpretable molecular property prediction in low-data regimes.
+I am a graduate student at McGill University and Mila – Quebec AI Institute, pursuing an M.Sc. in Mathematics and Statistics under the supervision of [Prof. Eric Kolaczyk](https://kolaczyk.github.io/).  
 
-I earned my B.Sc. in Physics and Applied Mathematics from Bowling Green State University in 2023 while competing on the NCAA Division I Men’s Soccer team. During my undergraduate studies, I worked in the Zamkov Lab, researching colloidal quantum dots for photovoltaic applications.
+My research focuses on interpretable **graph representation learning** for molecular property prediction in low-data regimes, combining deep graph models with tree-based methods to improve generalization and reduce variance in graph-level prediction tasks.
+I also study **pretraining strategies for graph neural networks and graph transformers**, and am broadly interested in **generative modeling for molecular design and drug discovery**.
 
-Prior to starting my graduate studies, I worked as a Data Scientist at South Essex Fabricating’s Research and Development Division.
+I hold a B.Sc. in Physics and Applied Mathematics from Bowling Green State University, where I was a member of the NCAA Division I Men’s Soccer Team and a Research Assistant in the [Zamkov Lab](https://physics.bgsu.edu/~zamkovm/), studying quantum dots.
 
-Most recently, I interned as a Quantitative Strategist Summer Associate at Morgan Stanley in their Fixed Income Division.
+Before graduate school, I worked as a Data Scientist in South Essex Fabricating’s R&D Division.
 
-[View my CV as PDF](./files/MichaelMontemurri-CV.pdf)
+In the Summer of 2025, I joined Morgan Stanley as a Quantitative Strategist Summer Associate on the U.S. Treasuries desk.
+
+
+
+[View my CV (PDF)](./files/MichaelMontemurri-CV.pdf)
+
+---
+

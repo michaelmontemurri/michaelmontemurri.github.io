@@ -9,66 +9,86 @@
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>McGill University | Mila</strong><span class="cv-location">, Montreal, QC</span>
+<strong>McGill University</strong><span class="cv-location">, Montréal, QC</span>
   </div>
-  <div class="cv-date">2024 – Present</div>
+  <div class="cv-date">Aug 2024 – Present</div>
 </div>
-- Supervisor: [Prof. Eric Kolaczyk](https://sites.bu.edu/kolaczyk/)  
-- Thesis topic: Graph-embedded random forests and graph representation learning for interpretable molecular property prediction.  
-- Teaching Assistant: Calculus II  
-- Courses: Network Science, Probabilistic Graphical Models (@UdeM), Statistical Inference, Advanced Distribution Theory, Regression & ANOVA, Generalized Linear Models
+
+- Supervised by [Prof. Eric Kolaczyk](https://kolaczyk.github.io/).
+- Thesis: *Interpretable graph representation learning for molecular property prediction in low-data regimes using hybrid deep learning and tree-based models.*
+- Courses: Network Science, Probabilistic Graphical Models (UdeM), Statistical Inference, Advanced Distribution Theory, Regression, GLMs.
+- GPA: 3.78 / 4.00
+
+---
 
 <div class="degree-title">
-  <a href="https://www.bgsu.edu/arts-and-sciences/mathematics-and-statistics.html">B.Sc. Physics & Applied Mathematics</a>
+  <a href="https://www.bgsu.edu/arts-and-sciences/physics-and-astronomy.html">B.Sc. Physics & Applied Mathematics</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
 <strong>Bowling Green State University</strong><span class="cv-location">, Bowling Green, OH</span>
   </div>
-  <div class="cv-date">2019 – 2023</div>
+  <div class="cv-date">Aug 2019 – Apr 2023</div>
 </div>
-- Summa Cum Laude, GPA: 3.99 / 4.00  
-- NCAA Division I Men’s Soccer  
+
+- Supervised by [Prof. Mikhail Zamkov](https://www.bgsu.edu/arts-and-sciences/physics-and-astronomy/people/mikhail-zamkov.html).
+- NCAA Division I Men’s Soccer Team.
+- GPA: 3.99 / 4.00
 
 ---
 
 ## Experience
 
 <div class="job-title">
-  <a href="https://www.morganstanley.com/">Quant Strats Summer Associate</a>
+<a href="https://mila.quebec/">ML/AI Research Student</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>Morgan Stanley – Fixed Income Division</strong><span class="cv-location">, Montreal, QC</span>
+<strong>Mila – Quebec AI Institute</a></strong><span class="cv-location">, Montréal, QC</span>
   </div>
-  <div class="cv-date">Summer 2025</div>
+  <div class="cv-date">Aug 2024 – Present</div>
 </div>
+- Designing hybrid deep learning and tree-based models to improve generalization in low-data graph prediction.
+- Exploring pretraining strategies for graph-level prediction using GNNs and Graph Transformers.
+- Executing large-scale model training and evaluation on GPU-accelerated HPC clusters.  
+
+<p class="tools-line">Tools: PyTorch, RDKit, DGL, HPC (Linux/Unix, Bash scripting, Slurm)</p>
+
+---
 
 <div class="job-title">
-  <a href="https://mila.quebec/">Graduate Research Student</a>
+<a href="https://www.morganstanley.com/">Quantitative Strategist Summer Associate</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>Mila – Quebec AI Institute</strong><span class="cv-location">, Montreal, QC</span>
+<strong>Morgan Stanley | U.S. Treasuries Desk (FID)</strong><span class="cv-location">, New York / Montréal, QC</span>
   </div>
-  <div class="cv-date">2024 – Present</div>
+  <div class="cv-date">May 2025 – Aug 2025</div>
 </div>
-- Investigate positional encoding methods for GNNs and graph transformers. Explore the integration of graph data into tree-based models. Utilize the Calcul Quebec HPC cluster to train and evaluate models on molecular graph datasets for interpretable property prediction. 
+- Collaborated with traders to develop a forecasting framework to predict client-level trading volume using market, macroeconomic, and seasonal signals.
+- Applied regularized and tree-based regression methods, PCA, and unsupervised clustering for feature extraction and behavioral segmentation in time-series data.
+- Delivered Python and KDB/q analytics pipelines integrated with the trading desk’s workflow to support daily client monitoring and strategy decisions.  
 
-<p class="tools-line">Tools: PyTorch, DGL, RDKit, SLURM, Git, LaTeX</p>
+<p class="tools-line">Tools: Python, KDB/q, Pandas, NumPy, Scikit-learn, Statsmodels, XGBoost, Plotly</p>
+
+---
 
 <div class="job-title">
   <a href="https://southsx.com/center-horticultural-innovation/">Data Scientist</a>
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>South Essex Fabricating – R&D Division</strong><span class="cv-location">, Windsor, ON</span>
+<strong>South Essex Fabricating | Research and Development</strong><span class="cv-location">, Windsor, ON</span>
   </div>
-  <div class="cv-date">2023 – 2024</div>
+  <div class="cv-date">Sep 2023 – Aug 2024</div>
 </div>
-- Built ML models for crop yield prediction. Fine-tuned and deployed computer vision models for seedling detection. Automated data collection pipelines using computer vision techniques. Conducted ad-hoc statistical analysis of experimental data.
+- Developed a multimodal ML model integrating image, climate-sensor, and harvest data for weekly crop-yield prediction, improving accuracy by 23%.
+- Fine-tuned and deployed YOLOv5 models for seedling detection and germination tracking through an internal Flask–SQL web application.
+- Automated crop-monitoring pipelines with custom CV models, expanding sampling coverage fourfold.  
 
-<p class="tools-line">Tools: Python, Flask, OpenCV, SQL, Pandas, Scikit-learn, PowerBI</p>
+<p class="tools-line">Tools: PyTorch, YOLOv5, OpenCV, Flask, SQL, Azure, Git</p>
+
+---
 
 <div class="job-title">
   <a href="https://physics.bgsu.edu/~zamkovm/">Research Assistant</a>
@@ -77,57 +97,28 @@
   <div class="cv-title">
 <strong>Zamkov Lab</strong><span class="cv-location">, Bowling Green, OH</span>
   </div>
-  <div class="cv-date">2020 – 2023</div>
+  <div class="cv-date">Sep 2020 – May 2023</div>
 </div>
-- Synthesis of colloidal semiconducting nanocrystals (quantum dots).
- Conducted experiments on shape control of nanocrystals and their optical properties. 
- Led a project developing quantum dots with infrared high-excitation emission spectra for solar cell applications.
-  Presented research at the 2023 American Chemical Society Conference. 
+- Studied shape-controlled synthesis and photophysical properties of colloidal quantum dots for solar energy applications.
+- Contributed to peer-reviewed publications and presented findings at the 2023 ACS Conference.  
 
-<p class="tools-line">Tools: OriginPro, Python, Excel</p>
-
+<p class="tools-line">Tools: COMSOL, OriginPro, Excel</p>
 
 ---
 
 ## Funding and Awards
 
-<div class="job-title">
-  <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgs-m-espc-m_eng.asp">Canada Graduate Scholarship (CGS-M)</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Natural Sciences and Engineering Research Council of Canada (NSERC)</div>
-  <div class="cv-date">2025</div>
-</div>
-Valued at \$27,000/year. Awarded nationally for academic excellence and research potential at the master’s level.
+- **NSERC Canada Graduate Scholarship – Master’s (CGS-M)** (2025): \$27,000/year.  
+  Awarded nationally for research potential in the natural sciences.
 
-<div class="job-title">
- <a href="https://frq.gouv.qc.ca/en/program/masters-research-scholarships-b1x-2023-2024/">FRQNT Master's Scholarship</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Fonds de recherche du Québec – Nature et technologies (FRQNT)</div>
-  <div class="cv-date">2025</div>
-</div>
-Valued at \$20,000/year. Awarded for research excellence in natural sciences and mathematics in Quebec.
+- **FRQNT Master’s Scholarship** (2025): \$20,000/year.  
+  Awarded for excellence in research in mathematics and natural sciences in Quebec.
 
-<div class="job-title">
-<a href=https://bgsu.academicworks.com/opportunities/22694>J. Robert Overman Scholarship (2)</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">Bowling Green State University</div>
-  <div class="cv-date">2022</div>
-</div>
-Awarded for outstanding academic performance in both the Physics and Mathematics departments.
+- **J. Robert Overman Scholarship** (2022): Highest departmental GPA (Physics, Mathematics).
 
-<div class="job-title">
-  <a href="https://academicallamerica.com/">CoSIDA Academic All-American</a>
-</div>
-<div class="cv-entry">
-  <div class="cv-title">College Sports Information Directors of America (CoSIDA)</div>
-  <div class="cv-date">2022</div>
-</div>
-Named to the NCAA Division I Men’s Soccer Academic All-America Team for combined academic and athletic excellence.
+- **CoSIDA Division I Men’s Soccer Academic All-American Team** (2022).
 
----
+--- 
 
 ## Projects
 
@@ -137,7 +128,8 @@ Named to the NCAA Division I Men’s Soccer Academic All-America Team for combin
   </div>
   <div class="cv-date">2025</div>
 </div>
-Implementation and analysis of alternative positional encoding methods in the learnable structural and positional encoding framework.
+- Implementation and analysis of alternative positional encoding methods in the learnable structural and positional encoding framework.
+
 
 <div class="cv-entry">
   <div class="job-title">
@@ -145,15 +137,17 @@ Implementation and analysis of alternative positional encoding methods in the le
   </div>
   <div class="cv-date">2025</div>
 </div>
-An extension of the EdgeBank benchmark for temporal link prediction using a frequency-based sampling approach.
+
+- An extension of the EdgeBank benchmark for temporal link prediction using a frequency-based sampling approach.
 
 <div class="cv-entry">
   <div class="job-title">
-<a href="https://github.com/michaelmontemurri/BigData25">Reading the Field: Predicting Post-Snap Outcomes with Large Language Models</a>
+<a href="https://github.com/michaelmontemurri/BigData25">Predicting Post-Snap Outcomes with Large Language Models</a>
   </div>
   <div class="cv-date">2025</div>
 </div>
-Submission for the 2025 NFL Big Data Bowl.
+
+- Submission for the 2025 NFL Big Data Bowl.
 
 <div class="cv-entry">
   <div class="job-title">
@@ -161,7 +155,8 @@ Submission for the 2025 NFL Big Data Bowl.
   </div>
   <div class="cv-date">2024</div>
 </div>
-An implementation of Tipping and Bishop’s Probabilistic PCA and Mixture of PPCA with applications.
+
+- An implementation of Tipping and Bishop’s Probabilistic PCA and Mixture of PPCA with applications.
 
 
 <div class="cv-entry">
@@ -170,7 +165,8 @@ An implementation of Tipping and Bishop’s Probabilistic PCA and Mixture of PPC
   </div>
   <div class="cv-date">2024</div>
 </div>
-An implementation of Breiman’s Random Forest and several variations from scratch.
+
+- An implementation of Breiman’s Random Forest and several variations from scratch.
 
 <div class="cv-entry">
   <div class="job-title">
@@ -178,7 +174,7 @@ An implementation of Breiman’s Random Forest and several variations from scrat
   </div>
   <div class="cv-date">2024</div>
 </div>
-A Python package implementing regression estimators and hypothesis testing from scratch.
+- A Python package implementing regression estimators and hypothesis testing from scratch.
 
 ---
 
@@ -191,7 +187,7 @@ A Python package implementing regression estimators and hypothesis testing from 
   <div class="cv-title">Journal of the American Chemical Society</div>
   <div class="cv-date">2023</div>
 </div>
-Dulanjan Harankahage, James Cassidy, Jacob Beavon, Jiamin Huang, Niamh Brown, David B. Berkinsky, Andrew Marder, Barbra Kayira, <strong>Michael Montemurri</strong>, Pavel Anzenbacher, et al.
+Dulanjan Harankahage, James Cassidy, Jacob Beavon, Jiamin Huang, Niamh Brown, David B. Berkinsky, Andrew Marder, Barbra Kayira, **Michael Montemurri**, Pavel Anzenbacher, et al.
 
 <div class="job-title">
   <a href="https://pubs.rsc.org/en/content/articlelanding/2023/cc/d3cc02091f/unauth">Quantum Shells versus Quantum Dots: Suppressing Auger Recombination in Colloidal Semiconductors</a>
@@ -200,8 +196,7 @@ Dulanjan Harankahage, James Cassidy, Jacob Beavon, Jiamin Huang, Niamh Brown, Da
   <div class="cv-title">Chemical Communications</div>
   <div class="cv-date">2023</div>
 </div>
-Jacob Beavon, Jiamin Huang, Dulanjan Harankahage, <strong>Michael Montemurri</strong>, James Cassidy, Mikhail Zamkov
-
+Jacob Beavon, Jiamin Huang, Dulanjan Harankahage, **Michael Montemurri**, James Cassidy, Mikhail Zamkov
 
 <div class="job-title">
   <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c00265">Shape Control of Colloidal Semiconductor Nanocrystals through Thermodynamically Driven Aggregative Growth</a>
@@ -210,7 +205,6 @@ Jacob Beavon, Jiamin Huang, Dulanjan Harankahage, <strong>Michael Montemurri</st
   <div class="cv-title">Chemistry of Materials</div>
   <div class="cv-date">2022</div>
 </div>
-James Cassidy, Dulanjan Harankahage, Jack Ojile, Dmitry Porotnikov, Lexie Walker, <strong>Michael Montemurri</strong>, Bianca S.L. Narvaez, Dmitriy Khon, Malcolm D.E. Forbes, Mikhail Zamkov
-
+James Cassidy, Dulanjan Harankahage, Jack Ojile, Dmitry Porotnikov, Lexie Walker, **Michael Montemurri**, Bianca S.L. Narvaez, Dmitriy Khon, Malcolm D.E. Forbes, Mikhail Zamkov
 
 ---
