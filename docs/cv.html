@@ -41,9 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f76d4f819b99041e511b382e1294c9f1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-3ac9a9bd05f441afeacfc6843223f76e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-f76d4f819b99041e511b382e1294c9f1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3bf5bec35f7be940bbbe7b8b061109d1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-9260e95583d0520bfa431f847236f879.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-3bf5bec35f7be940bbbe7b8b061109d1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -286,7 +286,11 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#experience" id="toc-experience" class="nav-link" data-scroll-target="#experience">Experience</a></li>
   <li><a href="#funding-and-awards" id="toc-funding-and-awards" class="nav-link" data-scroll-target="#funding-and-awards">Funding and Awards</a></li>
   <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a></li>
-  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a>
+  <ul class="collapse">
+  <li><a href="#first-authored-publications" id="toc-first-authored-publications" class="nav-link" data-scroll-target="#first-authored-publications">First Authored Publications</a></li>
+  <li><a href="#additional-manuscript-contributions" id="toc-additional-manuscript-contributions" class="nav-link" data-scroll-target="#additional-manuscript-contributions">Additional Manuscript Contributions</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -297,7 +301,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><a href="./files/MichaelMontemurri-CV.pdf"><strong>Download CV as PDF</strong></a></p>
+<p><a href="./files/Montemurri_Michael_Resume.pdf"><strong>Download CV as PDF</strong></a></p>
 <hr>
 <section id="education" class="level2">
 <h2 class="anchored" data-anchor-id="education">Education</h2>
@@ -309,12 +313,12 @@ ul.task-list li input[type="checkbox"] {
 <strong>McGill University</strong><span class="cv-location">, Montréal, QC</span>
 </div>
 <div class="cv-date">
-Aug 2024 – Present
+Aug 2024 – Apr 2026
 </div>
 </div>
 <ul>
 <li>Supervised by <a href="https://kolaczyk.github.io/">Prof.&nbsp;Eric Kolaczyk</a>.</li>
-<li>Thesis: <em>Interpretable graph representation learning for molecular property prediction in low-data regimes using hybrid deep learning and tree-based models.</em></li>
+<li>Thesis: <a href="./files/MONTEMURRI_Michael_MATH_thesis.pdf"><em>Hybrid graph representation learning for molecular optical property prediction in low-data regimes</em></a></li>
 <li>Courses: Network Science, Probabilistic Graphical Models (UdeM), Statistical Inference, Advanced Distribution Theory, Regression, GLMs.</li>
 <li>GPA: 3.78 / 4.00</li>
 </ul>
@@ -356,7 +360,7 @@ Aug 2024 – Present
 <li>Executing large-scale model training and evaluation on GPU-accelerated HPC clusters.</li>
 </ul>
 <p class="tools-line">
-Tools: PyTorch, RDKit, DGL, HPC (Linux/Unix, Bash scripting, Slurm)
+Tools: PyTorch, PyG, RDKit, DGL, HPC (Linux/Unix, Bash scripting, Slurm)
 </p>
 <hr>
 <div class="job-title">
@@ -364,12 +368,15 @@ Tools: PyTorch, RDKit, DGL, HPC (Linux/Unix, Bash scripting, Slurm)
 </div>
 <div class="cv-entry">
 <div class="cv-title">
-<strong>Morgan Stanley | U.S. Treasuries Desk (FID)</strong><span class="cv-location">, New York / Montréal, QC</span>
+<strong>Morgan Stanley | U.S. Treasuries Desk (FID)</strong><span class="cv-location">, Montréal, QC</span>
 </div>
 <div class="cv-date">
 May 2025 – Aug 2025
 </div>
 </div>
+<p class="cv-subnote" style="margin-bottom: 4px;">
+Returning full-time June 2026
+</p>
 <ul>
 <li>Collaborated with traders to develop a forecasting framework to predict client-level trading volume using market, macroeconomic, and seasonal signals.</li>
 <li>Applied regularized and tree-based regression methods, PCA, and unsupervised clustering for feature extraction and behavioral segmentation in time-series data.</li>
@@ -468,6 +475,17 @@ Tools: COMSOL, OriginPro, Excel
 <h2 class="anchored" data-anchor-id="projects">Projects</h2>
 <div class="cv-entry">
 <div class="job-title">
+<a href="https://github.com/michaelmontemurri/yield-curve-dashboard">U.S. Treasury Yield Curve Dashboard</a>
+</div>
+<div class="cv-date">
+2026
+</div>
+</div>
+<ul>
+<li>Interactive frontend dashboard for personal use visualizing U.S. Treasury yield curves, spreads, and PCA-based regime analysis from official Treasury data.</li>
+</ul>
+<div class="cv-entry">
+<div class="job-title">
 <a href="https://github.com/michaelmontemurri/gnn-lspe">Exploration of Initial Positional Encodings in the LSPE Framework</a>
 </div>
 <div class="cv-date">
@@ -536,6 +554,33 @@ Tools: COMSOL, OriginPro, Excel
 </section>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<section id="first-authored-publications" class="level3">
+<h3 class="anchored" data-anchor-id="first-authored-publications">First Authored Publications</h3>
+<div class="job-title">
+<p>Hybrid GNN-Tree Models for Optical Property Prediction: Decoupling Representation and Regression in Low-Data Regimes</p>
+</div>
+<div class="cv-entry">
+<div class="cv-title">
+Under review at Journal of Chemical Information and Modeling (JCIM)
+</div>
+</div>
+<p>Michael Montemurri, Shambhavi Tannir, and Eric Kolaczyk</p>
+<p>Code can be found <a href="https://github.com/michaelmontemurri/uvvis-hybrid-gnn">here</a>.</p>
+</section>
+<section id="additional-manuscript-contributions" class="level3">
+<h3 class="anchored" data-anchor-id="additional-manuscript-contributions">Additional Manuscript Contributions</h3>
+<div class="job-title">
+<p><a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.5c18640">Bound Exciton Complexes in Near-Infrared Emitting Quantum Shells</a></p>
+</div>
+<div class="cv-entry">
+<div class="cv-title">
+ACS Nano
+</div>
+<div class="cv-date">
+2026
+</div>
+</div>
+<p>Dulanjan Harankahage, Divesh Nazar, Korneel Molkens, Mykhailo V. Bondarchuk, Christopher M. Hicks, Andrew A. Marder, <strong>Michael Montemurri</strong>, Adam Roach, Ivo Tanghe, Liangfeng Sun, Richard D. Schaller, Benjamin T. Diroll, Anton V. Malko, Alexander N. Tarnovsky, Dries Van Thourhout, Zeger Hens, Pieter Geiregat, Mikhail Zamkov</p>
 <div class="job-title">
 <p><a href="https://pubs.acs.org/doi/abs/10.1021/jacs.3c03397">Quantum Shell in a Shell: Engineering Colloidal Nanocrystals for a High-Intensity Excitation Regime</a></p>
 </div>
@@ -575,6 +620,7 @@ Chemistry of Materials
 <hr>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

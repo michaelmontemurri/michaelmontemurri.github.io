@@ -1,9 +1,7 @@
 ---
 title: Michael Montemurri
-subtitle: M.Sc. Mathematics & Statistics, McGill University
+subtitle: M.Sc. Mathematics & Statistics, McGill University · 2026 
 description: | 
-  Department of Mathematics and Statistics<br>
-  McGill University<br>
   Montreal, QC, Canada<br>
 
 navbar: true
@@ -26,11 +24,11 @@ about:
   font-size: 1.05rem;
 ">
 
-  <a href="mailto:michael.montemurri@mcgill.ca" style="text-decoration: underline;" target="_blank" rel="noopener">
-    michael.montemurri@mail.mcgill.ca
+  <a href="mailto:mikemontemurri@gmail.com" style="text-decoration: underline;" target="_blank" rel="noopener">
+    mikemontemurri@gmail.com
   </a>
 
-  <a href="./files/MichaelMontemurri-CV.pdf" style="text-decoration: underline;" target="_blank" rel="noopener">
+  <a href="./files/Montemurri_Michael_Resume.pdf" style="text-decoration: underline;" target="_blank" rel="noopener">
     CV
   </a>
 
@@ -50,20 +48,18 @@ about:
 
 ## About Me
 
-I am a graduate student at McGill University and Mila – Quebec AI Institute, pursuing an M.Sc. in Mathematics and Statistics under the supervision of [Prof. Eric Kolaczyk](https://kolaczyk.github.io/).  
+I recently completed an M.Sc. in Mathematics and Statistics at McGill University and Mila – Quebec AI Institute, where I was supervised by [Prof. Eric Kolaczyk](https://kolaczyk.github.io/).  
 
-My research focuses on interpretable **graph representation learning** for molecular property prediction in low-data regimes, combining deep graph models with tree-based methods to improve generalization and reduce variance in graph-level prediction tasks.
-I also study **pretraining strategies for graph neural networks and graph transformers**, and am broadly interested in **generative modeling for molecular design and drug discovery**.
+My work focuses on **graph representation learning** for molecular property prediction in low-data regimes, combining deep graph models with tree-based methods to improve performance in graph-level prediction tasks.
+I am broadly interested in **machine learning on graphs**, including pretraining strategies for graph transformers, foundational graph models, and their applications. 
 
 I hold a B.Sc. in Physics and Applied Mathematics from Bowling Green State University, where I was a member of the NCAA Division I Men’s Soccer Team and a Research Assistant in the [Zamkov Lab](https://physics.bgsu.edu/~zamkovm/), studying quantum dots.
 
 Before graduate school, I worked as a Data Scientist in South Essex Fabricating’s R&D Division.
 
-In the Summer of 2025, I joined Morgan Stanley as a Quantitative Strategist Summer Associate on the U.S. Treasuries desk.
+In Summer 2025, I worked as a Quantitative Strategist Associate at Morgan Stanley on the U.S. Treasuries desk, and will be returning full-time in June 2026.
 
-
-
-[View my CV (PDF)](./files/MichaelMontemurri-CV.pdf)
+[View my CV (PDF)](./files/Montemurri_Michael_Resume.pdf)
 
 ---
 

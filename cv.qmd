@@ -1,4 +1,4 @@
-[**Download CV as PDF**](/files/MichaelMontemurri-CV.pdf)
+[**Download CV as PDF**](./files/Montemurri_Michael_Resume.pdf)
 
 ---
 
@@ -11,11 +11,11 @@
   <div class="cv-title">
 <strong>McGill University</strong><span class="cv-location">, Montréal, QC</span>
   </div>
-  <div class="cv-date">Aug 2024 – Present</div>
+  <div class="cv-date">Aug 2024 – Apr 2026</div>
 </div>
 
 - Supervised by [Prof. Eric Kolaczyk](https://kolaczyk.github.io/).
-- Thesis: *Interpretable graph representation learning for molecular property prediction in low-data regimes using hybrid deep learning and tree-based models.*
+- Thesis: [*Hybrid graph representation learning for molecular optical property prediction in low-data regimes*](./files/MONTEMURRI_Michael_MATH_thesis.pdf)
 - Courses: Network Science, Probabilistic Graphical Models (UdeM), Statistical Inference, Advanced Distribution Theory, Regression, GLMs.
 - GPA: 3.78 / 4.00
 
@@ -52,7 +52,7 @@
 - Exploring pretraining strategies for graph-level prediction using GNNs and Graph Transformers.
 - Executing large-scale model training and evaluation on GPU-accelerated HPC clusters.  
 
-<p class="tools-line">Tools: PyTorch, RDKit, DGL, HPC (Linux/Unix, Bash scripting, Slurm)</p>
+<p class="tools-line">Tools: PyTorch, PyG, RDKit, DGL, HPC (Linux/Unix, Bash scripting, Slurm)</p>
 
 ---
 
@@ -61,10 +61,11 @@
 </div>
 <div class="cv-entry">
   <div class="cv-title">
-<strong>Morgan Stanley | U.S. Treasuries Desk (FID)</strong><span class="cv-location">, New York / Montréal, QC</span>
+<strong>Morgan Stanley | U.S. Treasuries Desk (FID)</strong><span class="cv-location">, Montréal, QC</span>
   </div>
   <div class="cv-date">May 2025 – Aug 2025</div>
-</div>
+  </div>
+<p class="cv-subnote" style="margin-bottom: 4px;">Returning full-time June 2026</p>
 - Collaborated with traders to develop a forecasting framework to predict client-level trading volume using market, macroeconomic, and seasonal signals.
 - Applied regularized and tree-based regression methods, PCA, and unsupervised clustering for feature extraction and behavioral segmentation in time-series data.
 - Delivered Python and KDB/q analytics pipelines integrated with the trading desk’s workflow to support daily client monitoring and strategy decisions.  
@@ -144,6 +145,14 @@
 
 <div class="cv-entry">
   <div class="job-title">
+<a href="https://github.com/michaelmontemurri/yield-curve-dashboard">U.S. Treasury Yield Curve Dashboard</a>
+  </div>
+  <div class="cv-date">2026</div>
+</div>
+- Interactive frontend dashboard for personal use visualizing U.S. Treasury yield curves, spreads, and PCA-based regime analysis from official Treasury data.
+
+<div class="cv-entry">
+  <div class="job-title">
 <a href="https://github.com/michaelmontemurri/gnn-lspe">Exploration of Initial Positional Encodings in the LSPE Framework</a>
   </div>
   <div class="cv-date">2025</div>
@@ -199,6 +208,29 @@
 ---
 
 ## Publications
+
+### First Authored Publications
+
+<div class="job-title">
+  Hybrid GNN-Tree Models for Optical Property Prediction: Decoupling Representation and Regression in Low-Data Regimes
+</div>
+<div class="cv-entry">
+  <div class="cv-title">Under review at Journal of Chemical Information and Modeling (JCIM)</div>
+</div>
+Michael Montemurri, Shambhavi Tannir, and Eric Kolaczyk
+
+Code can be found <a href="https://github.com/michaelmontemurri/uvvis-hybrid-gnn">here</a>.
+
+### Additional Manuscript Contributions
+
+<div class="job-title">
+  <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.5c18640">Bound Exciton Complexes in Near-Infrared Emitting Quantum Shells</a>
+</div>
+<div class="cv-entry">
+  <div class="cv-title">ACS Nano</div>
+  <div class="cv-date">2026</div>
+</div>
+Dulanjan Harankahage, Divesh Nazar, Korneel Molkens, Mykhailo V. Bondarchuk, Christopher M. Hicks, Andrew A. Marder, **Michael Montemurri**, Adam Roach, Ivo Tanghe, Liangfeng Sun, Richard D. Schaller, Benjamin T. Diroll, Anton V. Malko, Alexander N. Tarnovsky, Dries Van Thourhout, Zeger Hens, Pieter Geiregat, Mikhail Zamkov
 
 <div class="job-title">
   <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.3c03397">Quantum Shell in a Shell: Engineering Colloidal Nanocrystals for a High-Intensity Excitation Regime</a>

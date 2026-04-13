@@ -1,12 +1,14 @@
 document.addEventListener("DOMContentLoaded", () => {
     const username = "michaelmontemurri";
     const includeRepos = [
+      "uvvis-hybrid-gnn",
       "gnn-lspe",
-      "DGB-edgebank2.0",
+      "probabilistic-PCA",
       "BigData25",
-      "RFandFriends",
-      "RegressionPackage",
-      "ProbabilisticPCA"
+      "DGB-edgebank2.0",
+      "yield-curve-dashboard",
+      "rf-and-friends",
+      "RegressionPackage"
     ];
   
     // Mapping of languages to their GitHub colors
@@ -17,7 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
       "JavaScript": "#f1e05a",
       "HTML": "#e34c26",
       "CSS": "#563d7c",
-      // Add more languages and their colors as needed
     };
   
     const container = document.getElementById("github-repos");
