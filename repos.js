@@ -27,8 +27,10 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch(`https://api.github.com/users/${username}/repos?per_page=100`)
       .then(r => r.json())
       .then(repos => {
-        const filtered = repos.filter(r => includeRepos.includes(r.name));
-  
+        const filtered = repos
+          .filter(r => includeRepos.includes(r.name))
+          .sort((a, b) => includeRepos.indexOf(a.name) - includeRepos.indexOf(b.name));
+
         container.innerHTML = "";
   
         filtered.forEach(repo => {
