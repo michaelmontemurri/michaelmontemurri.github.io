@@ -225,13 +225,13 @@
 
 ## Publications
 
-### First Authored Publications
+### First-Authored Publications
 
 <div class="job-title">
   Hybrid GNN-Tree Models for Optical Property Prediction: Decoupling Representation and Regression in Low-Data Regimes
 </div>
 <div class="cv-entry">
-  <div class="cv-title">Under review at Journal of Chemical Information and Modeling (JCIM)</div>
+  <div class="cv-title">Preprint / manuscript in revision</div>
 </div>
 Michael Montemurri, Shambhavi Tannir, and Eric Kolaczyk
 
