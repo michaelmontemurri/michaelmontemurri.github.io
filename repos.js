@@ -2,11 +2,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const username = "michaelmontemurri";
     const includeRepos = [
       "uvvis-hybrid-gnn",
+      "simple-dmpnn",
       "gnn-lspe",
-      "probabilistic-PCA",
+      "yield-curve-dashboard",
       "BigData25",
       "DGB-edgebank2.0",
-      "yield-curve-dashboard",
+      "probabilistic-PCA",
       "rf-and-friends",
       "RegressionPackage"
     ];

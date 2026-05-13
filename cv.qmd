@@ -145,6 +145,22 @@
 
 <div class="cv-entry">
   <div class="job-title">
+<a href="https://github.com/michaelmontemurri/uvvis-hybrid-gnn">Hybrid GNN–Tree Models for Low-Data Optical Property Prediction</a>
+  </div>
+  <div class="cv-date">2026</div>
+</div>
+- Artifact repository for a thesis/manuscript project studying hybrid D-MPNN and tree-based models for low-data molecular optical property prediction.
+
+<div class="cv-entry">
+  <div class="job-title">
+<a href="https://github.com/michaelmontemurri/simple-dmpnn">Simple D-MPNN</a>
+  </div>
+  <div class="cv-date">2026</div>
+</div>
+- A PyTorch implementation of the Directed Message Passing Neural Network architecture, built from scratch.
+
+<div class="cv-entry">
+  <div class="job-title">
 <a href="https://github.com/michaelmontemurri/yield-curve-dashboard">U.S. Treasury Yield Curve Dashboard</a>
   </div>
   <div class="cv-date">2026</div>
